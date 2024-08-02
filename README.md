@@ -1,2 +1,2 @@
-# aws_ticket_server
+# aws-ticket-app
  
